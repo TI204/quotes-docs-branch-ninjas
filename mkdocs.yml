@@ -1,1 +1,4 @@
 site_name: Programming Quotes Branch Ninjas
+nav:
+  - Home: index.md
+  - Features: features.md
