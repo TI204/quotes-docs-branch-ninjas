@@ -1,6 +1,21 @@
-## Log Initiateur
+## Log contributeur-2
 
 ```bash
+   
+    | * e9ea2da Added user-interface.md
+    | * 68f1959 Complete index.md and README.md (Contributor 3)
+    |/
+    *   e95237e Merge pull request #2 from pty-cookie/contributeur-2
+    |\
+    | * 682d182 Correction du README
+    | * c43c9d7 Added functions.md
+    | * d2ded80 Complete index.md and README.md (Contributor 2)
+    |/
+    *   b23797f Merge pull request #1 from LandryPIHOUR/contributeur-1
+    |\
+    | * 6fbea8d Add features.md (Contributor 1)
+    | * 10cd03a Complete index.md and README.md (Contributor 1)
+    |/
     * d700396 Correction du README
     * f64e12b Initial Commit
     * d55f27c add deadline
@@ -14,3 +29,5 @@
     * bac9b11 Deployed f64e12b with MkDocs version: 1.5.3
     * dadf12a Deployed f64e12b with MkDocs version: 1.5.3
 ```
+
+
