@@ -1,6 +1,6 @@
-# Solutions de l'évaluation notée 2 du groupe [nom-groupe]
+# Solutions de l'évaluation notée 2 du groupe Branch ninjas
 
-Solutions de l'évaluation notée 2 du groupe [nom-groupe] à l'aide de MkDocs.
+Solutions de l'évaluation notée 2 du groupe branch-ninjas à l'aide de MkDocs.
 
 ## Membres du groupe
 
